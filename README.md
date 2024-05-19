@@ -29,7 +29,7 @@ python -m pip install -U pip wheel
 pip install -r requirements.txt
 ```
 
-<i>Create a `.env` file and put the belo in it</i>
+<i>Create a `.env` file and put the below in it</i>
 ```
 GOOGLE_API_KEY = "YOU API KEY"
 ```
